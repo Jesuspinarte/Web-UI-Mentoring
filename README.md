@@ -1,3 +1,3 @@
 # Web-UI-Mentoring
 
-[FEATURE-01] - Styled Components Practice
+- **[FEATURE-01]** - Styled Components Practice
